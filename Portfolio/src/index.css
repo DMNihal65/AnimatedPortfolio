@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Neue';
+  src: url('./assets/NeueMontreal-Regular.ttf')format('truetype');
+}
+@font-face {
+  font-family: 'Icomoon';
+  src: url('./assets/icomoon.ttf')format('truetype');
+}
+@font-face {
+  font-family: 'Founder';
+  src: url('./assets/FoundersGroteskXCond-Bold.ttf')format('truetype');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
