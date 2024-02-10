@@ -2,7 +2,7 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div className='fixed-z[999] w-full px-20 py-8 font-Ico flex justify-between items-center   '>
+    <div data-scroll data-scroll-section data-scroll-speed="0" className='fixed z-[9999] w-full px-20 py-8 font-Ico flex justify-between items-center   '>
         <div className='Logo'>
             <p>Logo</p>
         </div>
